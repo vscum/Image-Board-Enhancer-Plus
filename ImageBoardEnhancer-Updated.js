@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name        Image Board Enhancer Updated (Rule34, Gelbooru, e621, and more)
-// @namespace   ImageBoardEnhancer2
-// @version     1.5.7
+// @name        Image Board Enhancer Plus (Rule34, Gelbooru, e621, and more)
+// @namespace   ImageBoardEnhancer+
+// @version     1.5.8
 // @description Auto Resize images and video on multiple image boards and enlarges thumbnails on mouse hover and adds content type icons to them.
-// @author      DanDanDan
+// @author      DanDanDan + Vscum
 // @match       *://rule34.xxx/*
 // @match       *://chan.sankakucomplex.com/*
 // @match       *://idol.sankakucomplex.com/*
@@ -23,7 +23,7 @@
 // @match       *://rule34.us/*
 // @match       *://www.rule34.us/*
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
-// @require     https://raw.githubusercontent.com/Luke-L/TheMostBasicBeginning/main/IB-Icons.js
+// @require     https://raw.githubusercontent.com/vscum/Image-Board-Enhancer-Plus/main/IB-Icons.js
 // @require     https://greasyfork.org/scripts/420842-vanilla-js-wheel-zoom/code/vanilla-js-wheel-zoom.js?version=927891
 // @grant       GM.setValue
 // @grant       GM.getValue
