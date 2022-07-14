@@ -23,7 +23,6 @@
 // @match       *://rule34.us/*
 // @match       *://www.rule34.us/*
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
-// @require     https://raw.githubusercontent.com/vscum/Image-Board-Enhancer-Plus/main/IB-Icons.js
 // @require     https://greasyfork.org/scripts/420842-vanilla-js-wheel-zoom/code/vanilla-js-wheel-zoom.js?version=927891
 // @grant       GM.setValue
 // @grant       GM.getValue
